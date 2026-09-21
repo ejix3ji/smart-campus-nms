@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.swp
+*.log
+.DS_Store
