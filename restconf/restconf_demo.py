@@ -22,7 +22,7 @@ RESTCONF_BASE_URL = (
 )
 
 HOSTNAME_URL = (
-    RESTCONF_BASE_URL
+    RESTCONF_BASE_URL +
     "/Cisco-IOS-XR-um-hostname-cfg:hostname"
 )
 
